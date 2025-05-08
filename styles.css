@@ -30,7 +30,7 @@ header {
     left: 0;
     width: 100%;
     background-color: #DAC7B5;
-    color: #4A3F35;
+    color: #b89789;
     text-align: center;
     padding: 15px 0;
     z-index: 999;
@@ -101,7 +101,7 @@ h2 {
 }
 
 h3 {
-    color: #eaa198;
+    color: #b89789;
     margin-top: 24px;
 }
 
